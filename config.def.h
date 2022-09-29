@@ -6,7 +6,7 @@ static int fuzzy = 1;
 static const unsigned int alpha = 0xf0;
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-    "FantasqueSansMono Nerd Font Mono:size=14",
+    "FantasqueSansMono Nerd Font:size=14",
     "Noto Color Emoji:size=14:antialias=true:autohint=true"};
 
 static const char *prompt =
